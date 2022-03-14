@@ -1,7 +1,7 @@
-package deployer;
+package com.github.zacharygriggs.deployer;
 
 import org.apache.commons.io.FileUtils;
-import utils.ConsoleUtils;
+import com.github.zacharygriggs.utils.ConsoleUtils;
 
 import java.io.File;
 import java.io.IOException;

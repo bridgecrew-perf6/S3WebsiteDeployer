@@ -1,7 +1,7 @@
-package deployer;
+package com.github.zacharygriggs.deployer;
 
-import utils.PropertiesReader;
-import utils.S3Accessor;
+import com.github.zacharygriggs.utils.PropertiesReader;
+import com.github.zacharygriggs.utils.S3Accessor;
 
 /**
  * Base class that has the behavior to modify an S3 website.

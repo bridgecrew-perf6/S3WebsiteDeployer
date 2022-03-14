@@ -1,4 +1,4 @@
-package utils;
+package com.github.zacharygriggs.utils;
 
 import java.io.File;
 import java.util.List;

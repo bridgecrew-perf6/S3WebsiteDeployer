@@ -1,11 +1,11 @@
-package deployer;
+package com.github.zacharygriggs.deployer;
 
-import utils.ConsoleUtils;
+import com.github.zacharygriggs.utils.ConsoleUtils;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-import static utils.FileUtils.recursiveFolderDiscovery;
+import static com.github.zacharygriggs.utils.FileUtils.recursiveFolderDiscovery;
 
 /**
  * Class to deploy a website from disk to S3

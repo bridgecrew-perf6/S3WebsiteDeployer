@@ -1,4 +1,4 @@
-package utils;
+package com.github.zacharygriggs.utils;
 
 import java.util.Scanner;
 

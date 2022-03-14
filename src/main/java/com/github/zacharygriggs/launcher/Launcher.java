@@ -1,8 +1,8 @@
-package launcher;
+package com.github.zacharygriggs.launcher;
 
-import deployer.WebsiteDeployer;
-import deployer.WebsiteDownloader;
-import utils.ConsoleUtils;
+import com.github.zacharygriggs.deployer.WebsiteDeployer;
+import com.github.zacharygriggs.deployer.WebsiteDownloader;
+import com.github.zacharygriggs.utils.ConsoleUtils;
 
 public class Launcher {
 

@@ -1,4 +1,4 @@
-package utils;
+package com.github.zacharygriggs.utils;
 import com.amazonaws.auth.AWSCredentials;
 import com.amazonaws.services.s3.AmazonS3Client;
 import com.amazonaws.services.s3.model.*;
